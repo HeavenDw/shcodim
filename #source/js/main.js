@@ -1,0 +1,15 @@
+//@prepros-append jq-start.js
+//@prepros-append jquery-slick.min.js
+//@prepros-append jquery-maskedinput.js
+//@prepros-append jquery-burger.js
+//@prepros-append jquery-smooth-scroll.js
+//@prepros-append jquery-header-placeholder.js
+//@prepros-append jquery-tabs.js
+//@prepros-append script.js
+//@prepros-append jq-end.js
+//@prepros-append dynamicAdapt.js
+//@prepros-append animate-on-scroll.js
+//@prepros-append map.js
+//@prepros-append lazyload.min.js
+//@prepros-append webp-check.js
+//@prepros-append imask.js
